@@ -2,15 +2,14 @@
 
 ## Google Colab Notebooks
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/Yaqoub2/AI_intro_KAUST/blob/main/day1_Linear_Regression_Basics.ipynb))
-
-#https://colab.research.google.com/github/my-username/my-repo/blob/main/notebooks/my-notebook.ipynb](https://colab.research.google.com/github/Yaqoub2/AI_intro_KAUST/blob/main/day1_Linear_Regression_Basics.ipynb
-
-
-| Day       | Notebook Description       | Link to Colab                                                                 |
-|-----------|----------------------------|------------------------------------------------------------------------------|
-| **Day 1** | Introduction to Topic      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/Yaqoub2/AI_intro_KAUST/blob/main/day1_Linear_Regression_Basics.ipynb)) 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/Yaqoub2/AI_intro_KAUST/blob/main/day1_Linear_Regression_Basics.ipynb)) |
-| **Day 2** | Advanced Analysis          | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/repository-name/blob/main/notebooks/day2-notebook.ipynb) |
-| **Day 3** | Final Project Overview     | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/repository-name/blob/main/notebooks/day3-notebook.ipynb) |
-| **Day 4** | Bonus/Deep Dive Topic      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/repository-name/blob/main/notebooks/day4-notebook.ipynb) |
+| Day       | Notebook Description             | Link to Colab                                                                 |
+|-----------|----------------------------------|------------------------------------------------------------------------------|
+| **Day 1** | Basic Linear Regression   | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yaqoub2/AI_intro_KAUST/blob/main/day1_Linear_Regression_Basics.ipynb) |
+|           | Advanced Linear Regression   | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yaqoub2/AI_intro_KAUST/blob/main/day1_Lab_Linear_Regression_Advanced.ipynb) |
+| **Day 2** | Basic Logistic Regression       | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yaqoub2/AI_intro_KAUST/blob/main/day2_Logistic_Regression_Basics.ipynb) |
+|           | Different Classifiers      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yaqoub2/AI_intro_KAUST/blob/main/day2_Lab_Classification_Advanced.ipynb) |
+| **Day 3** | Neural Networks from scratch  | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yaqoub2/AI_intro_KAUST/blob/main/day3_NN_Numpy_MNIST.ipynb) |
+|           | Neural Networks Pytorch  | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yaqoub2/AI_intro_KAUST/blob/main/day3_NN_Pytorch_MNIST.ipynb) |
+| **Day 4** | Logistic Regression Pytorch         | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yaqoub2/AI_intro_KAUST/blob/main/day4_Logistic_Regression_Pytorch_Breast_Cancer.ipynb) |
+|           | Auto Encoders         | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yaqoub2/AI_intro_KAUST/blob/main/day4_Pytorch_Linear_NN_MNIST_AutoEncoder.ipynb) |
+|           | DCT Compression        | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yaqoub2/AI_intro_KAUST/blob/main/day4_DCT_Compression_Numpy.ipynb) |
